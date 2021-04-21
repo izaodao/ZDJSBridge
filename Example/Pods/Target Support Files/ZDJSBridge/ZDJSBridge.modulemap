@@ -1,0 +1,6 @@
+framework module ZDJSBridge {
+  umbrella header "ZDJSBridge-umbrella.h"
+
+  export *
+  module * { export * }
+}

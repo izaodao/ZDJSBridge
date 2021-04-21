@@ -1,0 +1,23 @@
+{
+  "name": "ZDJSBridge",
+  "version": "1.1.0",
+  "summary": "iOS/macOS 与 JS 交互桥",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://gitlab.izaodao.com/lvhaoxuan/ZDJSBridge",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lvhaoxuan": "lvhaoxuan@izaodao.com"
+  },
+  "source": {
+    "git": "https://gitlab.izaodao.com/lvhaoxuan/ZDJSBridge.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "osx": "10.12"
+  },
+  "source_files": "ZDJSBridge/Classes/**/*"
+}

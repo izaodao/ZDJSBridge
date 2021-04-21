@@ -1,0 +1,6 @@
+framework module Pods_ZDJSBridge_Tests {
+  umbrella header "Pods-ZDJSBridge_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
